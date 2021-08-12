@@ -7,8 +7,10 @@ Welcome to Fedlearn-algo's documentation!
 =========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
+
+   core
 
 
 
