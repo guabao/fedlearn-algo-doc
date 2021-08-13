@@ -1,7 +1,7 @@
 client
 ======
 
-.. automodule:: core.client
-    :members:
-    :undoc-members:
-    :show-inheritance:
+.. toctree::
+   :maxdepth: 4
+
+   client_client
